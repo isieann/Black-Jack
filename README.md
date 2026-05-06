@@ -1,4 +1,4 @@
-*Black Jack
+# Black Jack
 
 This was my final project for my Intro to Computer Science class a few years ago.
 
