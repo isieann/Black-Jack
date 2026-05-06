@@ -9,3 +9,13 @@ to use Pygame, made a load of pixel assets and got to work.
 If you want to run it, just clone the repository and then open the file marked 0black_jack_game_file.py
 and run it, make sure Pygame is installed. I will evetually probably put this on my website, I will link that
 when I get that done! (Right now I am busy with other projects and applying for jobs!)
+
+<img title="a title" alt="1" src="/Screenshots/1.png">
+
+<img title="a title" alt="1" src="/Screenshots/2.png">
+
+<img title="a title" alt="1" src="/Screenshots/3.png">
+
+<img title="a title" alt="1" src="/Screenshots/4.png">
+
+<img title="a title" alt="1" src="/Screenshots/5.png">
